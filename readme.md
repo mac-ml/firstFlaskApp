@@ -1,18 +1,23 @@
 
 # First Flask App
 
-In this repository, I am including my first flash application. Libraries like Flask and Django are effective, easy and effective libraries, especially for people like me who write machine learning and artificial intelligence codes.
+In this repository, i show that the getting finance variable from free financial API with using yFinance python library. After this, i showed financial data in html table.
 
 ## Flask Offical Website and tutorials
 
 - https://flask.palletsprojects.com/en/3.0.x/
-- https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
-
   
-## Kullanılan Teknolojiler
+## Used Technology
 
 **Software:** Python
-
+**Library:** yFinance, Flask
 **IDLE:** Visual Studio
+
+
+
+## Data Attributes
+
+Columns
+- 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'
 
   
